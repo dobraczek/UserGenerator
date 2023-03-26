@@ -9,6 +9,7 @@ name: Matěj
 surname: Skalová
 nickname: Jára
 username: skalova.74
+image: https://stahovani.cz/people.php?gender=1&age=80
 password: p^L43z`MR!
 email: skalova.74@quick.cz
 phone: 720507189
