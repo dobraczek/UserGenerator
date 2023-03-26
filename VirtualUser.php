@@ -219,6 +219,7 @@ class User {
 	        'sex2' => $name['sex'],
 	        'name' => $name['name'],
 	        'surname' => $surname['surname'],
+			'image' => 'https://stahovani.cz/people.php?gender=' . $name['sex'] . '&age=' . $birthday['age'],
 	        'nickname' => $this->nickname,
 	        'username' => $this->username,
 			'password' => $this->password(),
