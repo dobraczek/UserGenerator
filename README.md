@@ -2,6 +2,8 @@ Generátor lze využít například na naplnění testovací databáze uživatel
 
 Ukázková data virtuálního uživatele:
 
+<A href="https://stahovani.cz/VirtualUserGenerator/">https://stahovani.cz/VirtualUserGenerator/</a>
+
 <pre>
 sex: muž
 sex2: 1
@@ -22,7 +24,3 @@ street_num: 14
 city: Mezilesí
 zip: 39501
 </pre>
-
-<h3>Example</h3>
-
-<A href="https://stahovani.cz/VirtualUserGenerator/">https://stahovani.cz/VirtualUserGenerator/</a>
